@@ -1,5 +1,8 @@
 _repo: Kitchen-Tested-Recipes-from-Canned-Foods_62230
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62230-h/images/cover.jpg
 creator:
   author:
     agent_name: American Can Company. Home Economics Department
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '51838'
     url: http://www.gutenberg.org/2009/agents/51838
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62230#Kitchen-Tested-Recipes-from-Canned-Foods
 gutenberg_issued: '2020-05-25'
 gutenberg_type: Text
 identifiers:
